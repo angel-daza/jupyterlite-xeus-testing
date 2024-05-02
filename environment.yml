@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - pandas
   - altair
-  - vegafusion
+  # - vegafusion These do not run because they need pyarrow which is not supported in xeus (among others?)
+  # - vegafusion-jupyter
